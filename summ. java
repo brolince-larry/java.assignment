@@ -2,7 +2,7 @@
 import java.util.Scanner; // Importing the Scanner class for user input
 
 public class Sum { // Class declaration
-    public static void main(String[] args) { // Main method, the entry point of the program
+    public static void main(String[] args) { // Main method
         Scanner scanner = new Scanner(System.in); // Creating a Scanner object to read input from the user
 
         System.out.println("Enter the first number:"); // Prompting the user to enter the first number
